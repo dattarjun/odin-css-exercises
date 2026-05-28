@@ -6,7 +6,7 @@ div
 	text-align:center;
 	font-weight:bold;
 }
-
+/* The CSS below is for the internal method. 
 p
 {
 	background-color:green;
@@ -19,3 +19,4 @@ button
 	background-color:orange;
 	font-size:18px
 }
+*/
